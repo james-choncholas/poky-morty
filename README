@@ -1,3 +1,15 @@
+***
+
+Clone of poky-morty repository at commit hash 577c91d706c3b671f0bd009da09ae1dbc5073f32
+
+To get the original:
+$ git clone -b morty git://git.yoctoproject.org/poky.git poky-morty
+
+***
+
+
+
+
 Poky
 ====
 
